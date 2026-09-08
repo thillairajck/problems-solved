@@ -1,0 +1,6 @@
+/**
+ * Scannerr
+ */
+public class Scannerr {
+
+}

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dsa_class {
+public class phonesecurity {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.print("Enter the String:");
