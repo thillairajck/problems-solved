@@ -1,0 +1,3 @@
+write a java program to record the attenance of 5 students  using a for loop read the rool no of each student and display that attenance has been recorded after recording all students attenance display attenance completed.
+write a java program to display the packing status
+write a java program to display the water level in the tank using the while loop the water starts as 10ltr and increased by 10ltr util it reach the 50 ltrs after the tank is filled display the tank is filled.
